@@ -41,8 +41,6 @@ I'm a front-end developer and UI/UX designer passionate about building clean, re
 | 🔻 **Webflow** | Building responsive websites visually |
 | 🔻 **Framer** | Interactive prototypes and motion design |
 | 🔻 **Wix Studio** | Fast, client-ready website builds |
-| 🔻 **Canva** | Quick graphics, social content, and mockups |
-| 🔻 **VS Code** | My main code editor for everything I build |
 
 </div>
 
@@ -50,8 +48,6 @@ I'm a front-end developer and UI/UX designer passionate about building clean, re
 <img src="https://img.shields.io/badge/FIGMA-FF0033?style=flat-square&logo=figma&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/WEBFLOW-FF0033?style=flat-square&logo=webflow&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/FRAMER-FF0033?style=flat-square&logo=framer&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/CANVA-FF0033?style=flat-square&logo=canva&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/VS_CODE-FF0033?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=000000"/>
 </div>
 
 <div align="center">
