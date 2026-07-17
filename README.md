@@ -1,12 +1,10 @@
-<!-- ===================================================== -->
-<!--         NEXUS // OS  —  RED CYBER OVERDRIVE BUILD         -->
-<!-- ===================================================== -->
+
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:5A0000,50:FF0033,75:5A0000,100:000000&height=280&section=header&text=Christopher%20Ledesma&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=FRONTEND%20DEVELOPER%20%2F%2F%20UI-UX%20DESIGNER&descAlignY=56&descSize=16&descColor=FF3B3B" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2600&pause=800&color=FF0033&background=00000000&center=true&vCenter=true&width=880&lines=SYSTEM+BOOTING...;CYBER+ACTIVATE  +;RED+PROTOCOL+ENGAGED;I+BUILD+INTERFACES+THAT+FEEL+ALIVE;DESIGN+%2B+CODE+%2B+CHROME;ACCESS+GRANTED_" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=FF0033&background=00000000&center=true&vCenter=true&width=920&lines=INITIALIZING+SYSTEM...;AUTHENTICATION+SUCCESSFUL;RED+PROTOCOL+ONLINE;FRONT-END+DEVELOPER+%26+UI%2FUX+DESIGNER;CRAETING+MODERN+DIGITAL+EXPERIENCES;ACCESS+GRANTED+%5BLEVEL+01%5D" />
 
 <br>
 
