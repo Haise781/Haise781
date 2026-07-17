@@ -34,10 +34,6 @@ I'm a front-end developer and UI/UX designer passionate about building clean, re
 ## Design Tools I Use
 
 <div align="center">
-<img src="https://img.shields.io/badge/⟡-TOOLKIT-000000?style=flat-square&labelColor=FF0033"/>
-</div>
-
-<div align="center">
 
 | Tool | What I use it for |
 |:--:|:--|
