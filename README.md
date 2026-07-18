@@ -116,7 +116,7 @@ CURIOSITY   ▰▰▰▰▰▰▰▱▱▱  75%
 
 ---
 
-## 🔻 What I'm Working On Right Now
+## What I'm Working On Right Now
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=2500&pause=600&color=FF0033&center=true&vCenter=true&width=600&lines=LOADING+ACTIVE+PROCESSES..." />
